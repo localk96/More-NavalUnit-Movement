@@ -1,0 +1,10 @@
+[
+  {
+    "name": "MoreNavalUnitMovement",
+    "cost": 0,
+    "uniques": [
+      "Unbuildable <for [AI player]>",
+      "[+1] Movement <for [Water] units>",
+      "[+1] Movement <for [Ground] units>"]
+  }
+] 
